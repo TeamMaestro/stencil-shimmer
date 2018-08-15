@@ -1,6 +1,6 @@
 {
   "name": "@teammaestro/stencil-shimmer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StencilJS component for adding the shimmer UI effect to your applications.",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",

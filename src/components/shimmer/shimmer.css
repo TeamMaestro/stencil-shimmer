@@ -60,10 +60,6 @@ lines {
     width: var(--line-width);
 }
 
-lines.shine {
-    display: block;
-}
-
 @keyframes placeholderShimmer {
     0% {
         background-position: var(-shimmer-start) 0;
