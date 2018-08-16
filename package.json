@@ -1,6 +1,6 @@
 {
-  "name": "@teammaestro/stencil-shimmer",
-  "version": "1.0.1",
+  "name": "@teamhive/stencil-shimmer",
+  "version": "1.0.2",
   "description": "StencilJS component for adding the shimmer UI effect to your applications.",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",
@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamMaestro/stencil-shimmer.git"
+    "url": "git+https://github.com/TeamHive/stencil-shimmer.git"
   },
   "author": "Ionic Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TeamMaestro/stencil-shimmer"
+    "url": "https://github.com/TeamHive/stencil-shimmer"
   },
-  "homepage": "https://github.com/TeamMaestro/stencil-shimmer",
+  "homepage": "https://github.com/TeamHive/stencil-shimmer",
   "jest": {
     "transform": {
       "^.+\\.(ts|tsx)$": "<rootDir>/node_modules/@stencil/core/testing/jest.preprocessor.js"

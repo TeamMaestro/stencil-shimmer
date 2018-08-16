@@ -2,7 +2,7 @@
 Web component that allows you to render shimmer UI in your web (and Ionic native) applications.
 
 ## Installation
-- `npm install @teammaestro/stencil-shimmer`
+- `npm install @teamhive/stencil-shimmer`
 
 ## Usage
 - `<hive-shimmer width="100%/50px/50" shape="line/box/circle"></hive-shimmer>`
@@ -12,7 +12,7 @@ In your `angular.json` file add the following assets matcher in your `projects.a
 ```
 {
     "glob": "**/*",
-    "input": "node_modules/@teammaestro/stencil-shimmer/dist/shimmer",
+    "input": "node_modules/@teamhive/stencil-shimmer/dist/shimmer",
     "output": "./shimmer"
 }
 ```
@@ -20,7 +20,7 @@ In your `angular.json` file add the following assets matcher in your `projects.a
 In your main `AppModule` (i.e. `app.module.ts`) add the following import statement:
 
 ```
-import '@teammaestro/stencil-shimmer/dist/shimmer';
+import '@teamhive/stencil-shimmer/dist/shimmer';
 ```
 
 ### CSS Variables
